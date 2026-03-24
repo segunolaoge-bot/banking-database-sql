@@ -81,6 +81,10 @@ banking-database-sql/
 - connect the database to a front-end banking application
 
 ---
+
+## 🧪 Testing
+The database objects were tested in SQL Server Management Studio using sample data and query execution. Testing included table creation, data insertion, joins, stored procedures, and functions to confirm that the system behaves correctly and supports the required business rules.
+
 ## 📸 Project Screenshots
 
 ### Table Creation
