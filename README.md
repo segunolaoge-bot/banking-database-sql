@@ -88,22 +88,22 @@ The database objects were tested in SQL Server Management Studio using sample da
 ## 📸 Project Screenshots
 
 ### Table Creation
-![Table Creation](images/table-creation.png)
+![Table Creation](image/table-creation.png)
 
 ### Sample Data
-![Sample Data](images/sample-data.png)
+![Sample Data](image/sample-data.png)
 
 ### Join Query Result
-![Join Query Result](images/join-query-result.png)
+![Join Query Result](image/join-query-result.png)
 
 ### Overdue Fees Result
-![Overdue Fees Result](images/overdue-fees-result.png)
+![Overdue Fees Result](image/overdue-fees-result.png)
 
 ### Stored Procedure Execution
-![Stored Procedure Execution](images/procedure-execution.png)
+![Stored Procedure Execution](image/procedure-execution.png)
 
 ### Function Result
-![Function Result](images/function-result.png)
+![Function Result](image/function-result.png)
 
 ## 👤 Author
 Segun Olaoge
