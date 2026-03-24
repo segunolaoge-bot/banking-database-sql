@@ -81,6 +81,25 @@ banking-database-sql/
 - connect the database to a front-end banking application
 
 ---
+## 📸 Project Screenshots
+
+### Table Creation
+![Table Creation](images/table-creation.png)
+
+### Sample Data
+![Sample Data](images/sample-data.png)
+
+### Join Query Result
+![Join Query Result](images/join-query-result.png)
+
+### Overdue Fees Result
+![Overdue Fees Result](images/overdue-fees-result.png)
+
+### Stored Procedure Execution
+![Stored Procedure Execution](images/procedure-execution.png)
+
+### Function Result
+![Function Result](images/function-result.png)
 
 ## 👤 Author
 Segun Olaoge
