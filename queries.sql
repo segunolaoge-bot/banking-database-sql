@@ -72,3 +72,15 @@ FROM Customers c
 INNER JOIN BankTransactions t
     ON c.CustomerID = t.CustomerID
 GROUP BY c.FullName;
+
+-- Overdue fees summary (customers with outstanding balances)
+SELECT 
+    c.FullName,
+    f.FeesID,
+    f.TotalOwed,
+    f.TotalPayback,
+    f.OutstandingBalance
+FROM Customers c
+INNER JOIN OverdueFees f
+    ON c.CustomerID = f.CustomerID
+WHERE f.OutstandingBalance > 0;
